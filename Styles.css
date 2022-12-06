@@ -11,7 +11,7 @@ html {
 body {
     min-width: 834px;
     color: white;
-    font-family: Optima, sans-serifs;
+    font-family: Optima, sans-serif;
 }
 
 h1 {
@@ -66,6 +66,10 @@ section{
     line-height: 1.75em;
 }
 
+#MuzakMaker {
+    font-family: Roboto;
+}
+
 img {
     padding: 50px;
 }
@@ -99,7 +103,7 @@ audio:-webkit-media-controls-enclosure {
     background: rgba(255, 255, 255, 0.5);
 }
 
-figcaptions {
+figcaption {
     color: #590242;
     line-height: 2em;
     text-align: center;
